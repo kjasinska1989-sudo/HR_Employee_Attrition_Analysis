@@ -52,3 +52,17 @@ The goal was to identify the main factors influencing employee turnover and pres
 # Author
 
 Kamila Jasinska
+
+## Dashboard Screenshots
+
+### Excel Dashboard
+
+![](Images/HR_Dashboard_1.png)
+
+![](Images/HR_Dashboard_2.png)
+
+### Power BI Dashboard
+
+![](Images/HR_Dashboard_3.png)
+
+![](Images/HR_Dashboard_4.png)
